@@ -1,6 +1,6 @@
 # Interpretable LCA
 
-Public release of the core code for the sparse latent class analysis project.
+Public release of the core code for the "Sparse Latent Class Analysis: Post-Estimation Refinement via Item-level Pseudo-Likelihood" project.
 
 ## Contents
 
